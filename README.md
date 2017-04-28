@@ -1,4 +1,4 @@
-# ![](https://avatars1.githubusercontent.com/u/26529966?v=3&s=40) Shiphp SSH Deployer
+# ![](https://avatars1.githubusercontent.com/u/26529966?v=3&s=40) Shiphp Simple SSH
 
 A Docker container to execute commands via SSH connections.
 
